@@ -1,0 +1,2 @@
+Project ini menggunakan module pandas untuk menyimpan info kontak yang diinputkan oleh user. 
+Setelah user selesai menginput maka otomatis menyimpan kedalam file excel yang akan auto generate.
